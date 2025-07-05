@@ -1,10 +1,10 @@
-# 📊 Startup Profit Predictor
+# Startup Profit Predictor
 
 This project predicts the **profit of a startup** using its R&D, Administration, and Marketing spend, based on the **50 Startups** dataset. It uses **Multiple Linear Regression** to learn the relationship between expenses and profit.
 
 ---
 
-## 🔍 What’s Included
+## What’s Included
 
 - Data exploration: `.info()`, `.describe()`, correlation check
 - Model training using `LinearRegression`
@@ -14,14 +14,14 @@ This project predicts the **profit of a startup** using its R&D, Administration,
 
 ---
 
-## 🧠 Key Result
+## Key Result
 
 - Achieved **~98% accuracy (R² score)**
 - Found **R&D Spend** to be the most impactful factor on profit
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - Python, Pandas, NumPy  
 - Matplotlib, Seaborn  
@@ -29,7 +29,7 @@ This project predicts the **profit of a startup** using its R&D, Administration,
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - 50 Startups Dataset  
 - Format: CSV  
